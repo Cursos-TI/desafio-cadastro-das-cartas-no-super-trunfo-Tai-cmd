@@ -12,7 +12,7 @@ int main() {
     printf("População\n");
     printf("Área"\n");
     printf("PIB\n");
-    printf("Número de pontos turísticos\n)"
+    printf("Número de pontos turísticos\n");
 
     scanf(%i",&Acre);    
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
