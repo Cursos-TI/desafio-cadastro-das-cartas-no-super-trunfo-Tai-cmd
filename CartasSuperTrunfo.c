@@ -120,13 +120,47 @@ int main() {
     Scanf(%i",&PIB);
     Scanf(%i",&Números de pontos turísticos); 
 
-    printf("C Santana\n");
-    printf("A01 Macapá\n");
+
+    printf("C01 Santana\n");
     printf("População\n");
     printf("Área"\n");
     printf("PIB\n");
-    printf("Número de pontos turísticos\n"); 
+    printf("Número de pontos turísticos\n");  
 
+    scanf(%i",&Santana);  
+    Scanf(%i",&População);
+    Scanf(%i",&Área);
+    Scanf(%i",&PIB);
+    Scanf(%i",&Números de pontos turísticos); 
+
+    printf("C03 Oiapoque\n");
+    printf("População\n");
+    printf("Área"\n");
+    printf("PIB\n");
+    printf("Número de pontos turísticos\n");
+    
+    scanf(%i",&Oiapoque);  
+    Scanf(%i",&População);
+    Scanf(%i",&Área);
+    Scanf(%i",&PIB);
+    Scanf(%i",&Números de pontos turísticos); 
+
+    printf("C04,Mazagão\n");
+    printf("População\n");
+    printf("Área"\n");
+    printf("PIB\n");
+    printf("Número de pontos turísticos\n");
+
+    scanf(%i",&Mazagão);  
+    Scanf(%i",&População);
+    Scanf(%i",&Área);
+    Scanf(%i",&PIB);
+    Scanf(%i",&Números de pontos turísticos); 
+        
+
+    
+
+  
     
 
     
