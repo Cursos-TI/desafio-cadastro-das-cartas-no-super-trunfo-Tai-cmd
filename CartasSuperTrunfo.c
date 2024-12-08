@@ -328,12 +328,92 @@ int main() {
     Scanf(%i",&Área);
     Scanf(%i",&PIB);
     Scanf(%i",&Números de pontos turísticos); 
-    
-    printf("G02 Cariacica\n");
+
+    printf("G03 Cariacica\n");
+    printf("População\n");
+    printf("Área"\n");
+    printf("PIB\n");
+    printf("Número de pontos turísticos\n"); 
+
+    scanf(%i",&Cariacica);  
+    Scanf(%i",&População);
+    Scanf(%i",&Área);
+    Scanf(%i",&PIB);
+    Scanf(%i",&Números de pontos turísticos);
+
+    printf("G04 Vitoria\n");
+    printf("População\n");
+    printf("Área"\n");
+    printf("PIB\n");
+    printf("Número de pontos turísticos\n"); 
+
+    scanf(%i",&Vitoria);  
+    Scanf(%i",&População);
+    Scanf(%i",&Área);
+    Scanf(%i",&PIB);
+    Scanf(%i",&Números de pontos turísticos); 
+
+    printf("H Goiás\n");
+    printf("H01 Goiânia\n");
     printf("População\n");
     printf("Área"\n");
     printf("PIB\n");
     printf("Número de pontos turísticos\n");
+
+    scanf(%i",&Goiânia);  
+    Scanf(%i",&População);
+    Scanf(%i",&Área);
+    Scanf(%i",&PIB);
+    Scanf(%i",&Números de pontos turísticos); 
+
+    printf("H02 Aparecida de Goiânia\n");
+    printf("População\n");
+    printf("Área"\n");
+    printf("PIB\n");
+    printf("Número de pontos turísticos\n"); 
+
+    scanf(%i",&Aparecida de Goiânia);  
+    Scanf(%i",&População);
+    Scanf(%i",&Área);
+    Scanf(%i",&PIB);
+    Scanf(%i",&Números de pontos turísticos); 
+
+    printf("H03 Anápolis\n");
+    printf("População\n");
+    printf("Área"\n");
+    printf("PIB\n");
+    printf("Número de pontos turísticos\n"); 
+
+    scanf(%i",&Anápolis);  
+    Scanf(%i",&População);
+    Scanf(%i",&Área);
+    Scanf(%i",&PIB);
+    Scanf(%i",&Números de pontos turísticos); 
+
+    printf("H04 Rio Verde\n");
+    printf("População\n");
+    printf("Área"\n");
+    printf("PIB\n");
+    printf("Número de pontos turísticos\n");
+
+    scanf(%i",&Rio Verde);  
+    Scanf(%i",&População);
+    Scanf(%i",&Área);
+    Scanf(%i",&PIB);
+    Scanf(%i",&Números de pontos turísticos); 
+    
+
+
+    
+
+
+
+   
+
+    
+    
+
+   
    
 
     
