@@ -156,7 +156,218 @@ int main() {
     Scanf(%i",&Área);
     Scanf(%i",&PIB);
     Scanf(%i",&Números de pontos turísticos); 
+
+    printf("D Amazonas\n");
+    printf("D01 Manaus\n");
+    printf("População\n");
+    printf("Área"\n");
+    printf("PIB\n");
+    printf("Número de pontos turísticos\n");
+    
+    scanf(%i",&Manaus);  
+    Scanf(%i",&População);
+    Scanf(%i",&Área);
+    Scanf(%i",&PIB);
+    Scanf(%i",&Números de pontos turísticos);
+
+    printf("D02,Itacoatiara\n");
+    printf("População\n");
+    printf("Área"\n");
+    printf("PIB\n");
+    printf("Número de pontos turísticos\n");
+
+    scanf(%i",&Itacoatiara);  
+    Scanf(%i",&População);
+    Scanf(%i",&Área);
+    Scanf(%i",&PIB);
+    Scanf(%i",&Números de pontos turísticos);
+
+    printf("D03,Manacaparu\n");
+    printf("População\n");
+    printf("Área"\n");
+    printf("PIB\n");
+    printf("Número de pontos turísticos\n"); 
+
+    scanf(%i",&Manacaparu);  
+    Scanf(%i",&População);
+    Scanf(%i",&Área);
+    Scanf(%i",&PIB);
+    Scanf(%i",&Números de pontos turísticos); 
+
+    printf("D04,Parintins\n");
+    printf("População\n");
+    printf("Área"\n");
+    printf("PIB\n");
+    printf("Número de pontos turísticos\n"); 
+    
+    scanf(%i",&Paritins);  
+    Scanf(%i",&População);
+    Scanf(%i",&Área);
+    Scanf(%i",&PIB);
+    Scanf(%i",&Números de pontos turísticos); 
+
+    printf("E Bahia\n");
+    printf("E01 Abaira\n");
+    printf("População\n");
+    printf("Área"\n");
+    printf("PIB\n");
+    printf("Número de pontos turísticos\n");
+
+    scanf(%i",&Abaira);  
+    Scanf(%i",&População);
+    Scanf(%i",&Área);
+    Scanf(%i",&PIB);
+    Scanf(%i",&Números de pontos turísticos); 
+
+    printf("E02 Abaré\n");
+    printf("População\n");
+    printf("Área"\n");
+    printf("PIB\n");
+    printf("Número de pontos turísticos\n"); 
+
+    scanf(%i",&AAbaré);  
+    Scanf(%i",&População);
+    Scanf(%i",&Área);
+    Scanf(%i",&PIB);
+    Scanf(%i",&Números de pontos turísticos); 
+
+    printf("E03 Acajutiba\n");
+    printf("População\n");
+    printf("Área"\n");
+    printf("PIB\n");
+    printf("Número de pontos turísticos\n"); 
+
+    scanf(%i",&Acajutiba);  
+    Scanf(%i",&População);
+    Scanf(%i",&Área);
+    Scanf(%i",&PIB);
+    Scanf(%i",&Números de pontos turísticos); 
+
+    printf("E04 Adustina\n");
+    printf("População\n");
+    printf("Área"\n");
+    printf("PIB\n");
+    printf("Número de pontos turísticos\n"); 
+
+    scanf(%i",&Adustina);  
+    Scanf(%i",&População);
+    Scanf(%i",&Área);
+    Scanf(%i",&PIB);
+    Scanf(%i",&Números de pontos turísticos); 
+
+    printf("A Ceara\n");
+    printf("F01 Fortaleza\n");
+    printf("População\n");
+    printf("Área"\n");
+    printf("PIB\n");
+    printf("Número de pontos turísticos\n"); 
+
+    scanf(%i",&Fortaleza);  
+    Scanf(%i",&População);
+    Scanf(%i",&Área);
+    Scanf(%i",&PIB);
+    Scanf(%i",&Números de pontos turísticos); 
+
+    printf("F02 Caucaia\n");
+    printf("População\n");
+    printf("Área"\n");
+    printf("PIB\n");
+    printf("Número de pontos turísticos\n"); 
+
+    scanf(%i",&Caucaia);  
+    Scanf(%i",&População);
+    Scanf(%i",&Área);
+    Scanf(%i",&PIB);
+    Scanf(%i",&Números de pontos turísticos); 
+
+    printf("F03 Juazeiro do Norte\n");
+    printf("População\n");
+    printf("Área"\n");
+    printf("PIB\n");
+    printf("Número de pontos turísticos\n"); 
+
+    scanf(%i",&Juazeiro do Norte);  
+    Scanf(%i",&População);
+    Scanf(%i",&Área);
+    Scanf(%i",&PIB);
+    Scanf(%i",&Números de pontos turísticos); 
+
+    printf("F04 Maracanaú\n");
+    printf("População\n");
+    printf("Área"\n");
+    printf("PIB\n");
+    printf("Número de pontos turísticos\n");
+
+    scanf(%i",&Maracanaú);  
+    Scanf(%i",&População);
+    Scanf(%i",&Área);
+    Scanf(%i",&PIB);
+    Scanf(%i",&Números de pontos turísticos); 
+
+    printf("G Espírito Santo\n");
+    printf("G01 Serra\n");
+    printf("População\n");
+    printf("Área"\n");
+    printf("PIB\n");
+    printf("Número de pontos turísticos\n");
+
+    scanf(%i",&Serra);  
+    Scanf(%i",&População);
+    Scanf(%i",&Área);
+    Scanf(%i",&PIB);
+    Scanf(%i",&Números de pontos turísticos); 
+
+    printf("G02 Vila Velha\n");
+    printf("População\n");
+    printf("Área"\n");
+    printf("PIB\n");
+    printf("Número de pontos turísticos\n");
+
+    scanf(%i",&Vila Velha);  
+    Scanf(%i",&População);
+    Scanf(%i",&Área);
+    Scanf(%i",&PIB);
+    Scanf(%i",&Números de pontos turísticos); 
+    
+    printf("G02 Cariacica\n");
+    printf("População\n");
+    printf("Área"\n");
+    printf("PIB\n");
+    printf("Número de pontos turísticos\n");
+   
+
+    
+
+    
+
+
+    
+
+    
+    
+
+
+
+
+
+    
+
+
+    
+
+
+    
+
+
+   
+
+
         
+
+
+
+
+    
 
     
 
